@@ -9,11 +9,10 @@ static const char *barlayout        = "tln|s";
 static const char *fonts[]          = { "JetBrains Mono:size=10.5", "Symbols Nerd Font"};
 static const char dmenufont[]       = "monospace:size=10";
 
-static const char col_gray1[]       = "#222222";
-static const char col_gray2[]       = "#444444";
-static const char col_gray3[]       = "#bbbbbb";
-static const char col_gray4[]       = "#eeeeee";
-static const char col_cyan[]        = "#005577";
+static const char col_gray1[]       = "#FFFFFF";
+static const char col_gray3[]       = "#FFFFFF";
+static const char col_gray4[]       = "#FFFFFF";
+static const char col_cyan[]       = "#FFFFFF";
 
 static const char black[]       = "#000000";
 static const char white[]       = "#FFFFFF";
@@ -25,7 +24,8 @@ static const char *colors[][3]      = {
 };
 
 /* tagging */
-static const char *tags[] = { "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X" };
+//static const char *tags[] = { "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X" };
+static const char *tags[] = { "一", "二", "三", "四", "五", "六", "七", "八", "九", "十" };
 
 static const Rule rules[] = {
 	/* xprop(1):
@@ -68,7 +68,7 @@ static const char *termcmd[]  = { "alacritty", NULL };
 
 static const Key keys[] = {
 	/* modifier                     key        function        argument */
-	{ MODKEY,                       XK_p,      spawn,          {.v = dmenucmd } },
+	//{ MODKEY,                       XK_p,      spawn,          {.v = dmenucmd } },
 	{ MODKEY|ShiftMask,             XK_Return, spawn,          {.v = termcmd } },
 	{ MODKEY|ShiftMask,             XK_p,      spawn,      	   SHCMD("rofi -show drun") }, 
 	{ MODKEY,                       XK_b,      togglebar,      {0} },
