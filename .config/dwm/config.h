@@ -6,7 +6,7 @@ static const unsigned int snap      = 32;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
 static const char *barlayout        = "tln|s";
-static const char *fonts[]          = {"JetBrains Mono:size=11", "Symbols Nerd Font"};
+static const char *fonts[]          = {"JetBrains Mono:size=11.5", "Symbols Nerd Font:pixelsize=11.5:antialia=true"};
 static const char dmenufont[]       = "monospace:size=10";
 
 static const char col_gray1[]       = "#FFFFFF";
@@ -45,9 +45,9 @@ static const int lockfullscreen = 1; /* 1 will force focus on the fullscreen win
 
 static const Layout layouts[] = {
 	/* symbol     arrange function */
-	{ "[]=",      tile },    /* first entry is default */
+	{ "πβω",      tile },    /* first entry is default */
 	{ "><>",      NULL },    /* no layout function means floating behavior */
-	{ "[M]",      monocle },
+	{ "ω",      monocle },
 };
 
 /* key definitions */
