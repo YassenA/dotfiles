@@ -13,4 +13,4 @@ Arch Linux dotfiles
 - [Neofetch](https://github.com/Chick2D/neofetch-themes)
 
 ### Font
-- Jetbrains Mono Nerd Font
+- [Jetbrains Mono Nerd Font](https://www.jetbrains.com/lp/mono/)
