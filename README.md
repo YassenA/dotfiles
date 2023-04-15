@@ -1,8 +1,8 @@
 # Dotfiles
 Arch Linux dotfiles
 
-![image1](https://github.com/YassenA/dotfiles/blob/main/wallpaper/ArchLayoutDotfiles.PNG?raw=true) 
-![image2](https://github.com/YassenA/dotfiles/blob/main/wallpaper/ArchLayoutDotfilesRofi.PNG?raw=true) 
+![image1](https://github.com/YassenA/dotfiles/blob/main/wallpaper/ArchDefault.png?raw=true) 
+![image2](https://github.com/YassenA/dotfiles/blob/main/wallpaper/ArchRofi.png?raw=true) 
 
 ## Dependencies
 - [Alacritty](https://github.com/alacritty/alacritty)
@@ -13,4 +13,4 @@ Arch Linux dotfiles
 - [Neofetch](https://github.com/Chick2D/neofetch-themes)
 
 ### Font
-- Jetbrains Mono Nerd Font
+- [Jetbrains Mono Nerd Font](https://www.jetbrains.com/lp/mono/)
