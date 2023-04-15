@@ -6,7 +6,7 @@ static const unsigned int snap      = 32;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
 static const char *barlayout        = "tln|s";
-static const char *fonts[]          = {"JetBrains Mono:pxielsize=11", "Symbols Nerd Font:pixelsize=11:antialia=true"};
+static const char *fonts[]          = {"JetBrains Mono:pxielsize=10", "Symbols Nerd Font:pixelsize=10"};
 static const char dmenufont[]       = "monospace:size=10";
 
 static const char col_gray1[]       = "#FFFFFF";
