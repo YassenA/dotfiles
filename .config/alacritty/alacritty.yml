@@ -64,4 +64,4 @@ cursor:
   style:
     shape: Underline
     blinking: on
-    blink-interval: 750
+    blink-interval: 500
