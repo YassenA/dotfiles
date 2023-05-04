@@ -11,6 +11,7 @@ Arch Linux dotfiles
 - [Rofi](https://github.com/davatorium/rofi)
 - [Slstatus](https://github.com/drkhsh/slstatus)
 - [Neofetch](https://github.com/Chick2D/neofetch-themes)
+- [Ly](https://github.com/fairyglade/ly)
 
 ### Font
 - [Jetbrains Mono Nerd Font](https://www.jetbrains.com/lp/mono/)
