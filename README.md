@@ -1,9 +1,9 @@
 # Dotfiles
 Arch Linux dotfiles
 
-![image1](https://github.com/YassenA/dotfiles/blob/main/wallpaper/MainArchSetupFloating.png?raw=true) 
-![image2](https://github.com/YassenA/dotfiles/blob/main/wallpaper/MainArchSetupTiled.png?raw=true) 
-![image2](https://github.com/YassenA/dotfiles/blob/main/wallpaper/MainArchSetupRofi.png?raw=true)
+![image1](https://github.com/YassenA/dotfiles/blob/main/wallpaper/MainArchSetupFloating.PNG?raw=true) 
+![image2](https://github.com/YassenA/dotfiles/blob/main/wallpaper/MainArchSetupTiled.PNG?raw=true) 
+![image2](https://github.com/YassenA/dotfiles/blob/main/wallpaper/MainArchSetupRofi.PNG?raw=true)
 
 ## Dependencies
 - [Alacritty](https://github.com/alacritty/alacritty)
